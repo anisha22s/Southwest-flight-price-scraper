@@ -33,8 +33,8 @@ The following code defines a function called insert_data, which inserts the data
   
 
 
-## *RISK MITIGATION*
-When using web-scraping techniques such as Selenium, the code sometimes may trigger Southwest Airlines' anti-scraping mechanism, which can result in missing data for a certain month, or even cause unexpected errors in certain code blocks in the project. This can lead to some negative effects on pricing strategies and decisions made by Southwest Airlines. 
+## *RISKS*
+When using web-scraping techniques such as Selenium, the code sometimes may trigger Southwest Airlines' anti-scraping mechanism, which can result in missing data for a certain month, or even cause unexpected errors in certain code blocks in the project.
 
 ## *CONCLUSION*
 In conclusion, the flight price data collection and management project for Southwest Airlines has resulted in a valuable dataset that can be used to make informed pricing decisions and gain insights into consumer behavior. The resulting dataset can be used to make significant decisions regarding pricing strategies and remain competitive in the market. I used web-scraping techniques to collect the data and stored it in a MongoDB database. The use of MongoDB provides several advantages over traditional SQL databases. This project showcases the importance of designing data management systems that add value to the business problem at hand.
