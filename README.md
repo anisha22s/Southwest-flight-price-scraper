@@ -16,4 +16,4 @@ Once you have installed these tools, you can clone this repository and run the m
 
 We used Selenium, a powerful web-scraping tool, to automate browsing the web and extracting data from Southwest Airlines' website. We then used Beautiful Soup library in Python to parse the data, which allowed us to extract specific data elements from the web pages. The data was stored in a MongoDB database, which was chosen due to its flexible querying which allows us to easily compare pricing trends across the four different routes. The dataset includes web-scraping time, the date, the price, and the route, and is sorted in time series order for easier observation.
 
-## *Please navigate to Project Report section of this repository for details on how the code works*
+## *Please navigate to the Project Report section of this repository for details on how the code works*
